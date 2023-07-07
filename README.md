@@ -11,7 +11,7 @@ A collection of direct links leading to the extracted images at the Austrian Nat
 **2. An extended version of the training dataset including bounding boxes for object detection tasks.**
 In addition to the images from the 16th century travelogues, this dataset includes images from 17th century as well.
 
-The CSV files contain the annotations and IIIF links to the extracted images on the repository of the [Austrian National Library (ÖNB)](https://search.onb.ac.at/).
+The CSV/Excel files contain the annotations and direct IIIF links to the extracted images on the repository of the [Austrian National Library (ÖNB)](https://search.onb.ac.at/).
 
 # References
 This dataset was published in context of the short presentation held at the DH 2023 conference in Graz, AT:
