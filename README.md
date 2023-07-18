@@ -17,10 +17,23 @@ The CSV/Excel files contain the annotations and direct IIIF links to the extract
 This dataset was published in context of the short presentation held at the DH 2023 conference in Graz, AT:
 
 ```
-@inproceedings{vignoli_revolution_nodate,
+@inproceedings{vignoli_revolution_2023,
+	address = {Graz},
 	title = {Revolution or {Evolution}? {AI}-{Driven} {Image} {Classification} of {Historical} {Prints}},
 	shorttitle = {Revolution or {Evolution}?},
-	booktitle = {{DH} 2023},
-	author = {Vignoli, Michela and Gruber, Doris and Simon, Rainer},
+	url = {https://zenodo.org/record/7961822},
+	doi = {10.5281/zenodo.7961822},
+	booktitle = {Digital {Humanities} 2023: {Book} of {Abstracts}},
+	publisher = {University of Graz},
+	author = {{Vignoli, Michela} and {Gruber, Doris} and {Simon, Rainer}},
+	language = {en},
+	urldate = {2023-07-18},
+	editor = {{Baillot, Anne} and {Tasovac, Toma} and {Scholger, Walter} and {Vogeler, Georg}},
+	collaborator = {{Scholger, Martina} and {Raunig, Elisabeth} and {Steiner, Elisabeth} and {Centre For Information Modelling-Austrian Centre For Digital Humanities}},
+	month = jul,
+	year = {2023},
+	pages = {184},
+	keywords = {Digital Humanities},
 }
+
 ```
